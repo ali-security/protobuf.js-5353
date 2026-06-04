@@ -1,5 +1,18 @@
 # Changelog
 
+## [8.6.0](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.5.0...protobufjs-v8.6.0) (2026-06-04)
+
+
+### Features
+
+* Add spec-compliant protojson extension ([#2297](https://github.com/protobufjs/protobuf.js/issues/2297)) ([ffd3d51](https://github.com/protobufjs/protobuf.js/commit/ffd3d51b050f766ecc6b91ffc366c30d3536db13))
+
+
+### Bug Fixes
+
+* Remove postinstall script ([#2299](https://github.com/protobufjs/protobuf.js/issues/2299)) ([b8ed7be](https://github.com/protobufjs/protobuf.js/commit/b8ed7be4a6ca6ff9ea9c19bf0aee657d7572fd8e))
+* Support null-prototype plain objects in converters ([#2300](https://github.com/protobufjs/protobuf.js/issues/2300)) ([bf20d84](https://github.com/protobufjs/protobuf.js/commit/bf20d84c80b0e246a1c1dd88f51c3235be824deb))
+
 ## [8.5.0](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.4.2...protobufjs-v8.5.0) (2026-05-29)
 
 
